@@ -1,0 +1,10 @@
+library verilog;
+use verilog.vl_types.all;
+entity counter9_d_pwm is
+    port(
+        clk_count       : in     vl_logic;
+        rst             : in     vl_logic;
+        d_n_input       : in     vl_logic_vector(9 downto 0);
+        duty            : out    vl_logic
+    );
+end counter9_d_pwm;

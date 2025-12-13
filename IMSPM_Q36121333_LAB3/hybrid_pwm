@@ -1,0 +1,9 @@
+module hybrid_pwm(clk_count,rst, d_n_input, duty);
+    input clk_count,rst;
+    input wire [9:0]d_n_input;
+    output reg duty;
+    wire i0,i1,i2,i3,i4,i5,i6,i7,i8,i9;
+    reg temp=0;
+    reg [6:0]count;
+    reg delay;
+endmodule

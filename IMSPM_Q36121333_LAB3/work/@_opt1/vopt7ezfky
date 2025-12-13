@@ -1,0 +1,56 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt
+VWS0mbzl@9IQg]TV>Kazic0
+04 11 4 work compensator fast 0
+=1-00d861838ad9-69232ebb-1a2-54fc
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt1
+VZU@Y5EPJ>k3=K]AEC8G:;2
+04 12 4 work compensator1 fast 0
+=1-00d861838ad9-692335e4-2a3-16a0
+R1
+n@_opt1
+R2
+vcompensator
+!s100 1`V1mlcH3MBEjP<kW]>YX3
+I5MzceLmAC?jN_c>YcggC`2
+VEPEAb]1^4QShkS_3XjN1T2
+R3
+w1763906145
+Z4 8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v
+Z5 FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v
+L0 2
+Z6 OL;L;10.1c;51
+r1
+31
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1763914356.977000
+Z9 !s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v|
+!i10b 1
+!s85 0
+vcompensator1
+IA5`gjMcBH=NdiB[H=i2;]3
+VIj^GN>;SjoPVb;XNJl7D01
+R3
+w1763914940
+R4
+R5
+L0 2
+R6
+r1
+31
+R7
+R8
+!i10b 1
+!s100 X;O`I_HGLf[9UB8O]CImX0
+!s85 0
+!s108 1763915219.692000
+R9

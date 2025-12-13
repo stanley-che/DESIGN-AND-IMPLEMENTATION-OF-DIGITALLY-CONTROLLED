@@ -1,0 +1,33 @@
+//DPWM
+module counter9_d_pwm(clk_count,rst, d_n_input, duty);
+    input clk_count, rst;
+    input [8:0] d_n_input;
+    output reg duty;
+
+    reg [8:0] count;
+
+    // counter
+    always @(posedge clk_count or posedge rst) begin
+        if (rst) begin
+            count <= 0;
+        end else if (count == 9'b111111111) begin
+            count <= 0;
+        end else begin
+            count <= count + 1;
+        end
+    end
+
+    // comparator + SR latch
+    always @(posedge clk_count or posedge rst) begin
+        if (rst) begin
+            duty <= 0;
+        end else begin
+            if (count == 0)
+                duty <= 1;
+
+            if (count >= d_n_input)
+                duty <= 0;
+        end
+    end
+
+endmodule

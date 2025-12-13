@@ -1,0 +1,21 @@
+# Reading C:/modeltech64_10.1c/tcl/vsim/pref.tcl 
+# Loading project lab3
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Compile of converter.v was successful.
+# Compile of converter.v was successful.
+# do compile_and_launch.tcl 
+vsimulink work.compensator
+# vsim -foreign {simlinkserver {C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll} } work.compensator 
+# Loading work.compensator(fast)
+# Loading C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll
+Server error: Shared pipe is being used by another HDL server.A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line

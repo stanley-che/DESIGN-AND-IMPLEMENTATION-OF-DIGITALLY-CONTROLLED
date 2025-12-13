@@ -1,0 +1,24 @@
+C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/top_dither.v {1 {vlog -work work -vopt {C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module dither
+-- Compiling module counter_dither
+-- Compiling module top_dither
+
+Top level modules:
+	top_dither
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/counter_dither.v {1 {vlog -work work -vopt {C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\counter_dither.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module counter_dither
+
+Top level modules:
+	counter_dither
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/dither.v {1 {vlog -work work -vopt {C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\dither.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module dither
+
+Top level modules:
+	dither
+
+} {} {}}

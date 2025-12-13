@@ -1,0 +1,31 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt
+Z1 Vz@`HK9?eONSUhKjRc2Wbb3
+Z2 04 11 4 work compensator fast 0
+Z3 =1-00d861838ad9-6923563e-380-22d4
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.1c;51
+Z7 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+vcompensator
+!i10b 1
+Z8 !s100 HA1VckMnKoj?a4i09MU_O1
+Z9 I`W5g7]2Q=P6Wi@14jSY?S1
+Z10 VEPEAb]1^4QShkS_3XjN1T2
+Z11 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\work
+Z12 w1763923497
+Z13 8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/work/concert.v
+Z14 FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/work/concert.v
+L0 2
+Z15 OL;L;10.1c;51
+r1
+!s85 0
+31
+!s108 1763923640.822000
+!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/work/concert.v|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/work/concert.v|
+Z17 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF

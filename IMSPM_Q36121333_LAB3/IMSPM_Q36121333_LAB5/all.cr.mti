@@ -1,0 +1,43 @@
+C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/encoder.v {1 {vlog -work work -vopt {C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\encoder.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module encoder
+
+Top level modules:
+	encoder
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither.v {1 {vlog -work work -vopt {C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module dither
+
+Top level modules:
+	dither
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither_deadtime_count.v {1 {vlog -work work -vopt C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither_deadtime_count.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module dither_time
+
+Top level modules:
+	dither_time
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v {1 {vlog -work work -vopt C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module stanley
+
+Top level modules:
+	stanley
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/clkdivider.v {1 {vlog -work work -vopt C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/clkdivider.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module clkdivider
+
+Top level modules:
+	clkdivider
+
+} {} {}} C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/top.v {1 {vlog -work work -vopt {C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}

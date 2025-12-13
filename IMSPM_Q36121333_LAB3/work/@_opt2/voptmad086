@@ -1,0 +1,247 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt
+VjJ1nGY2V0YQfobf]1BCeA2
+04 10 4 work top_dither fast 0
+=1-00d861838ad9-6932baa7-cd-b4c8
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt1
+VZU@Y5EPJ>k3=K]AEC8G:;2
+04 12 4 work compensator1 fast 0
+=1-00d861838ad9-692335e4-2a3-16a0
+R1
+n@_opt1
+R2
+R3
+T_opt2
+VifH?Y>cgA0nQT80MI;EmS1
+04 19 4 work top_dither_deadtime fast 0
+=1-00d861838ad9-6932fce6-3e6-c478
+R1
+n@_opt2
+R2
+vcomp
+I5JN>[SN0`agB`V3P?cZ=<1
+V^=5;7VDFnDLnB3j388BhH2
+R3
+w1763923581
+Z4 8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v
+Z5 FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v
+L0 2
+Z6 OL;L;10.1c;51
+r1
+31
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v|
+!s100 z3X3EZ=n=FVGn4h733nl92
+!s108 1763923715.641000
+!i10b 1
+!s85 0
+vcompensator
+In8^eH_c8D1SU5VggQWU8g0
+VEPEAb]1^4QShkS_3XjN1T2
+R3
+w1763924021
+Z10 8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v
+Z11 FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v
+L0 2
+R6
+r1
+31
+R8
+Z12 !s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v|
+!s100 K2>FFQSj@h:R3iifTRmRn1
+!s108 1763924025.793000
+!i10b 1
+!s85 0
+vcompensator1
+IJM:Iz0VA>2?AdSaKz<iVj3
+VIj^GN>;SjoPVb;XNJl7D01
+R3
+w1763918280
+R4
+R5
+L0 2
+R6
+r1
+31
+R7
+R8
+R9
+!s100 aCkNG[D?78Lz;X^AoLN[J2
+!s108 1763918291.640000
+!i10b 1
+!s85 0
+vcounter9_d_pwm
+IS4B[Xje?ZDCfUJEdiC[d<2
+V25D6SWY:Ob?31mAKi<IKP0
+R3
+w1764340851
+8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/counter_d_pwm.v
+FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/counter_d_pwm.v
+L0 2
+R6
+r1
+31
+R8
+!s100 fAiI?TdiIQ5kZA0[4c_I43
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/counter_d_pwm.v|
+!s108 1764466918.747000
+!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/counter_d_pwm.v|
+!i10b 1
+!s85 0
+vcounter_dither
+I?3@hZh7HM;22iMKL[E`W43
+VCU7;iAlE3]1N[;SQX4Z_m1
+R3
+w1764932125
+Fcounter_dither.v
+8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither.v
+FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither.v
+L0 1
+R6
+r1
+31
+R8
+!s108 1764932185.500000
+!s107 counter_dither.v|dither.v|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither.v|
+!s100 ]2_U@JIk^BQ]D2QZT>kVG0
+!i10b 1
+!s85 0
+vdither
+IS[0I=?_ji8zWH=I`V>aLL0
+Vf<M:NM^?0m?NAzIcRV`U>0
+R3
+Z14 w1764948922
+Fdither.v
+Z15 8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither_deadtime.v
+Z16 FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither_deadtime.v
+L0 1
+R6
+r1
+31
+Z17 !s108 1764948934.128000
+Z18 !s107 dither_deadtime_count.v|dither.v|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither_deadtime.v|
+Z19 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\top_dither_deadtime.v|
+R8
+!i10b 1
+!s100 d[P<f[fXgVU:UPAafe18?2
+!s85 0
+vdither_time
+IX_Ncm070n=ESMXPc9XNf30
+VQLW?VLa`mN;>g;Z0g=Dc13
+R3
+R14
+Fdither_deadtime_count.v
+R15
+R16
+L0 1
+R6
+r1
+31
+R17
+R18
+R19
+R8
+!i10b 1
+!s100 6HL60VY;JY]fTHMZbiQ2V2
+!s85 0
+vhybrid_pwm
+I>9;DoXza:[iGPW@:cUL6D0
+V:X1iZD7=m9_OQN4QH<Zc72
+R3
+w1764466907
+8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/hybrid_pwm.v
+FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/hybrid_pwm.v
+L0 1
+R6
+r1
+31
+R8
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/hybrid_pwm.v|
+!s100 9Y4P^iUN204<G9:>iD;8h2
+!s108 1764466919.027000
+!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/hybrid_pwm.v|
+!i10b 1
+!s85 0
+vstanley
+ISE`a1<_P58CoRzP5PM8@60
+VVKDUZ:f7:h4UjmGl_LdaC1
+R3
+w1764056071
+R10
+R11
+L0 2
+R6
+r1
+31
+R13
+R8
+R12
+!s100 O<XGcjJAW8PSZFH6FoUED3
+!s108 1764466918.335000
+!i10b 1
+!s85 0
+vtop_controller
+Iz9gXRk;NUC15oge[8A6eB1
+VmgK]JTG9J9[QV;Z6Q2Gbn3
+R3
+w1764000390
+R10
+R11
+L0 2
+R6
+r1
+31
+R12
+R13
+R8
+!s108 1764000395.477000
+!s100 TXGnOa[b7IX_`Uh=a<4Og3
+!i10b 1
+!s85 0
+vtop_dither
+IWWE4@=<MSl=38iMCQCM5c1
+Va^42XcBAeAQHSFhUJ7><S2
+R3
+w1764948605
+R15
+R16
+L0 4
+R6
+r1
+31
+R18
+R19
+R8
+!s100 GkXk^hjBjRcUQT7cOgKzd3
+!s108 1764948774.012000
+!i10b 1
+!s85 0
+vtop_dither_deadtime
+IdGTEg4^P6I<b9S44dC5z83
+VL_oj;RJ6`SS^C=_B;[h:I3
+R3
+R14
+R15
+R16
+L0 4
+R6
+r1
+31
+R17
+R18
+R19
+R8
+!i10b 1
+!s100 8IPmF=zm;oGodYPTT<@2X0
+!s85 0

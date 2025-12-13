@@ -1,0 +1,136 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt
+V;^H_R;PD=7[FT2S71CD9?1
+04 14 4 work top_controller fast 0
+=1-00d861838ad9-692482b0-203-6c2c
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+T_opt1
+VZU@Y5EPJ>k3=K]AEC8G:;2
+04 12 4 work compensator1 fast 0
+=1-00d861838ad9-692335e4-2a3-16a0
+R1
+n@_opt1
+R2
+Z3 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
+T_opt2
+V_@0?G1V:BE:_?U9i3b;420
+04 7 4 work stanley fast 0
+=1-00d861838ad9-69235c87-269-587c
+R1
+n@_opt2
+R2
+R3
+vcomp
+I5JN>[SN0`agB`V3P?cZ=<1
+V^=5;7VDFnDLnB3j388BhH2
+R3
+w1763923581
+Z4 8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v
+Z5 FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v
+L0 2
+Z6 OL;L;10.1c;51
+r1
+31
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/converter.v|
+!s100 z3X3EZ=n=FVGn4h733nl92
+!s108 1763923715.641000
+!i10b 1
+!s85 0
+vcompensator
+In8^eH_c8D1SU5VggQWU8g0
+VEPEAb]1^4QShkS_3XjN1T2
+R3
+w1763924021
+Z10 8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v
+Z11 FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v
+L0 2
+R6
+r1
+31
+R8
+Z12 !s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/convert.v|
+!s100 K2>FFQSj@h:R3iifTRmRn1
+!s108 1763924025.793000
+!i10b 1
+!s85 0
+vcompensator1
+IJM:Iz0VA>2?AdSaKz<iVj3
+VIj^GN>;SjoPVb;XNJl7D01
+R3
+w1763918280
+R4
+R5
+L0 2
+R6
+r1
+31
+R7
+R8
+R9
+!s100 aCkNG[D?78Lz;X^AoLN[J2
+!s108 1763918291.640000
+!i10b 1
+!s85 0
+vcounter9_d_pwm
+IUkf8j>8ECb0zU8FBoZnWT3
+VU9b810F>@]E[^==aGl:l61
+R3
+Z14 w1764000390
+R10
+R11
+L0 153
+R6
+r1
+31
+Z15 !s108 1764000395.477000
+R12
+R13
+R8
+!i10b 1
+!s100 ^BFf@X_76P56=5PS?]38?1
+!s85 0
+vstanley
+IKN@=@QVV^b[B^?dj;j8?53
+VVKDUZ:f7:h4UjmGl_LdaC1
+R3
+R14
+R10
+R11
+L0 28
+R6
+r1
+31
+R15
+R12
+R13
+R8
+!i10b 1
+!s100 K^l7Rj;LiVb4@8UbNU^Mj1
+!s85 0
+vtop_controller
+Iz9gXRk;NUC15oge[8A6eB1
+VmgK]JTG9J9[QV;Z6Q2Gbn3
+R3
+R14
+R10
+R11
+L0 2
+R6
+r1
+31
+R15
+R12
+R13
+R8
+!i10b 1
+!s100 TXGnOa[b7IX_`Uh=a<4Og3
+!s85 0
