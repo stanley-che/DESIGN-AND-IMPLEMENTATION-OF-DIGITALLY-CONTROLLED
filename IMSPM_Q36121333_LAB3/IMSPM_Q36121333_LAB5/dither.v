@@ -1,7 +1,7 @@
 module dither(clk_in,rst,d_n_input,d_dith);
   input clk_in,rst;
-  input wire [8:0] d_n_input;
-  output wire [5:0]d_dith;
+  input wire [9:0] d_n_input;
+  output wire [6:0]d_dith;
   reg [2:0]count;
   reg [7:0] dith_T[7:0];
   wire [7:0]dith_raw;
@@ -45,5 +45,5 @@ module dither(clk_in,rst,d_n_input,d_dith);
           default:dith_point=1'b0;
       endcase  
   end
-  assign d_dith=d_n_input[8:3]+dith_point;
+  assign d_dith=d_n_input[9:3]+dith_point;
 endmodule

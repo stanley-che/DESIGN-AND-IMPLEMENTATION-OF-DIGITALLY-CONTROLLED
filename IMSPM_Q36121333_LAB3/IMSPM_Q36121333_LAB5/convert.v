@@ -3,7 +3,7 @@ module stanley (
     input              clk,
     input              rst,
     input      [3:0]   err_in,
-    output     [8:0]   d_comp
+    output     [9:0]   d_comp
 );
 
     reg  [3:0] en, en1, en2, en3;
@@ -119,7 +119,7 @@ module stanley (
     end
 
     // duty 
-    assign d_comp = d_n_reg[14:6];
+    assign d_comp = d_n_reg[15:6];
 
 endmodule
 

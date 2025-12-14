@@ -4,71 +4,71 @@ K3
 cModel Technology
 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3
 T_opt
-V_70dXT3gI>XLJKfH3Lc4k1
+VXSKb6fU<AB44F]=2LSnR71
 04 3 4 work top fast 0
-=1-00d861838ad9-693b84c9-c3-16a0
+=1-00d861838ad9-693e4102-f2-51fc
 o-quiet -auto_acc_if_foreign -work work
 n@_opt
 OL;O;10.1c;51
 vclkdivider
-!s100 f]g?LoZJim6NPOgz8Omh41
-Ii5Sl2z`jHalDkCDKfAA9k2
+IWD^[fn:iT9nZZDaGSz=7Y3
 VKRX]ej1DLUWzbUOD[?cOJ0
 Z0 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5
-w1765072657
-8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/clkdivider.v
-FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/clkdivider.v
+w1765686938
+8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\clkdivider.v
+FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\clkdivider.v
 L0 1
 Z1 OL;L;10.1c;51
 r1
 31
-!s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/clkdivider.v|
 Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!s108 1765508290.925000
-!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/clkdivider.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\clkdivider.v|
+!s100 `gBdlIDK6?GjJ:CKboLkz3
+!s108 1765686951.208000
+!s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\clkdivider.v|
 !i10b 1
 !s85 0
 vdither
-!s100 YG6ea?nQ^d<1MeP;M=NdV0
-IlQ5RklhahN8HI2^_bh0jn2
+IVUQgoVi93KOOk86O0C]GH3
 V0Y]UIho=NhUkR4cMRR82`3
 Z3 dC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5
-w1765023918
-8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither.v
-FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither.v
+w1765686931
+8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither.v
+FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither.v
 L0 1
 R1
 r1
 31
-!s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither.v|
 R2
-!s108 1765508291.321000
-!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither.v|
+!s100 ;m@28FXbl8Fz?=KEARa8X3
+!s108 1765686951.695000
+!s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither.v|
 !i10b 1
 !s85 0
 vdither_time
-!s100 2B9:P[JadY4kVWWR[1IH;0
-IzHh<g[UM=]P]:SGhL5cB91
+IbBTV9g_kCfmYD<K_CWo>F3
 V3:Dg5@7G?Q_?^[`MgmG2U1
 R3
-w1765172494
-8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither_deadtime_count.v
-FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither_deadtime_count.v
+w1765686906
+8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither_deadtime_count.v
+FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither_deadtime_count.v
 L0 1
 R1
 r1
 31
-!s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither_deadtime_count.v|
 R2
-!s108 1765508291.524000
-!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/dither_deadtime_count.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither_deadtime_count.v|
+!s100 QRK9`e00H?U2>P8<J;]6R0
+!s108 1765686951.926000
+!s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither_deadtime_count.v|
 !i10b 1
 !s85 0
 vencoder
 I^ij2WY0M[CW1E>]:oJESI1
 VLz8]hdfgOz<cbdnOO]@6m0
 R3
-w1765172289
+w1765686943
 8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\encoder.v
 FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\encoder.v
 L0 1
@@ -77,34 +77,34 @@ r1
 31
 R2
 !s100 J]4cM@W^AlR1oeW6eiheo1
-!s108 1765508291.731000
-!s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\encoder.v|
 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\encoder.v|
+!s108 1765686952.180000
+!s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\encoder.v|
 !i10b 1
 !s85 0
 vstanley
-!s100 b2cf4LPJKA6@c@A]5`RH80
-I>@Z:=1@]NE?zMAaFnzPzX0
+I6jk1;P6lgD4cWFVHjjRz@2
 VVKDUZ:f7:h4UjmGl_LdaC1
 R3
-w1764056071
-8C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v
-FC:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v
+w1765686853
+8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\convert.v
+FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\convert.v
 L0 2
 R1
 r1
 31
-!s90 -reportprogress|300|-work|work|-vopt|C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v|
 R2
-!s108 1765508291.123000
-!s107 C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\convert.v|
+!s100 29HgQ875De>OeN5]0jPBa3
+!s108 1765686951.454000
+!s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\convert.v|
 !i10b 1
 !s85 0
 vtop
 ISVY>Nf4Bd8f1=5BW;;5Uc3
 VRH65FE@<;eGS7YQlEJ55i1
 R3
-w1765508271
+w1765686836
 8C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v
 FC:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v
 L0 2
@@ -112,9 +112,9 @@ R1
 r1
 31
 R2
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v|
 !i10b 1
 !s100 RVJlW8kmfO3TdXogmGFT50
 !s85 0
-!s108 1765508291.938000
+!s108 1765686952.418000
 !s107 C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v|
-!s90 -reportprogress|300|-work|work|-vopt|C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v|

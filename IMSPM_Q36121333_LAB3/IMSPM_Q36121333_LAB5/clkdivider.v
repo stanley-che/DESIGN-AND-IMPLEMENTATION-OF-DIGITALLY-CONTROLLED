@@ -1,6 +1,6 @@
 module clkdivider(clk,rst,count,convst_bar,clk_comp,clk_dpwm);
     input clk,rst;
-    input  wire [5:0]count;
+    input  wire [6:0]count;
     output reg convst_bar;
     output reg clk_comp;
     output reg clk_dpwm;

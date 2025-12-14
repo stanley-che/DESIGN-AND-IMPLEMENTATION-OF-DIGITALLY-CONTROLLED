@@ -5,10 +5,10 @@ module top(clk,rst,data_in,duty_high,duty_low,convst_bar);
     output duty_high;
     output duty_low;
     output wire convst_bar;
-    wire [5:0]d_n_input;
-    wire [8:0]d_n;
+    wire [6:0]d_n_input;
+    wire [9:0]d_n;
     wire [3:0]err;
-    wire [5:0]count;
+    wire [6:0]count;
     wire clk_dpwm,clk_comp;
     //module connection
     encoder encoder(

@@ -1,5 +1,4 @@
 # Reading C:/modeltech64_10.1c/tcl/vsim/pref.tcl 
-# Loading project all
 # //  ModelSim SE-64 10.1c Jul 28 2012 
 # //
 # //  Copyright 1991-2012 Mentor Graphics Corporation
@@ -10,7 +9,6 @@
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
 # do compile_and_launch.tcl 
-# reading C:\modeltech64_10.1c\win64/../modelsim.ini
 # Loading project all
 # Compile of clkdivider.v was successful.
 # Compile of convert.v was successful.
@@ -23,16 +21,19 @@ vsimulink work.top
 # vsim -foreign {simlinkserver {C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll} } work.top 
 # ** Note: (vsim-3813) Design is being optimized due to module recompilation...
 # 
-# ** Error: C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/top.v(19): Port 'data_in' not found in module (3rd connection).
-# Optimization failed
-# Error loading design
-vsimulink work.top
-# vsim -foreign {simlinkserver {C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll} } work.top 
-# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v(42): (vopt-2241) Connection width does not match width of port 'count'. The port definition is at: C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither_deadtime_count.v(1).
 # 
-# ** Error: C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/top.v(19): Port 'data_in' not found in module (3rd connection).
-# Optimization failed
-# Error loading design
+# ** Warning: C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v(48): (vopt-2241) Connection width does not match width of port 'd_comp'. The port definition is at: C:/Users/stanl/OneDrive/Desktop/IMSPM_Q36121333_LAB3/IMSPM_Q36121333_LAB5/convert.v(6).
+# 
+# Loading work.top(fast)
+# Loading C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll
+# Compile of clkdivider.v was successful.
+# Compile of convert.v was successful.
+# Compile of dither.v failed with 1 errors.
+# Compile of dither_deadtime_count.v was successful.
+# Compile of encoder.v was successful.
+# Compile of top.v was successful.
+# 6 compiles, 1 failed with 1 error. 
 # Compile of clkdivider.v was successful.
 # Compile of convert.v was successful.
 # Compile of dither.v was successful.
@@ -42,7 +43,61 @@ vsimulink work.top
 # 6 compiles, 0 failed with no errors. 
 vsimulink work.top
 # vsim -foreign {simlinkserver {C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll} } work.top 
-# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Warning: C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\top.v(42): (vopt-2241) Connection width does not match width of port 'count'. The port definition is at: C:\Users\stanl\OneDrive\Desktop\IMSPM_Q36121333_LAB3\IMSPM_Q36121333_LAB5\dither_deadtime_count.v(1).
+# 
+# Loading work.top(fast)
+# Loading C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll
+# Compile of clkdivider.v was successful.
+# Compile of convert.v was successful.
+# Compile of dither.v was successful.
+# Compile of dither_deadtime_count.v was successful.
+# Compile of encoder.v was successful.
+# Compile of top.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Running Simulink Cosimulation block.
+# done
+# Simulation halt requested by foreign interface.
+# Compile of clkdivider.v was successful.
+# Compile of convert.v was successful.
+# Compile of dither.v was successful.
+# Compile of dither_deadtime_count.v was successful.
+# Compile of encoder.v was successful.
+# Compile of top.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Running Simulink Cosimulation block.
+# done
+# Simulation halt requested by foreign interface.
+# Running Simulink Cosimulation block.
+# done
+# Simulation halt requested by foreign interface.
+# Running Simulink Cosimulation block.
+# done
+# Simulation halt requested by foreign interface.
+# Compile of clkdivider.v was successful.
+# Compile of convert.v was successful.
+# Compile of dither.v was successful.
+# Compile of dither_deadtime_count.v was successful.
+# Compile of encoder.v was successful.
+# Compile of top.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Running Simulink Cosimulation block.
+# done
+# Simulation halt requested by foreign interface.
+# Compile of clkdivider.v was successful.
+# Compile of convert.v was successful.
+# Compile of dither.v was successful.
+# Compile of dither_deadtime_count.v was successful.
+# Compile of encoder.v was successful.
+# Compile of top.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Running Simulink Cosimulation block.
+# done
+# Simulation halt requested by foreign interface.
+vsimulink work.top
+# vsim -foreign {simlinkserver {C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll} } work.top 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
 # 
 # Loading work.top(fast)
 # Loading C:/Program Files/MATLAB/R2021b/toolbox/edalink/extensions/modelsim/windows64/liblfmhdls_gcc450vc12.dll
@@ -55,13 +110,6 @@ vsimulink work.top
 # Running Simulink Cosimulation block.
 # done
 # Simulation halt requested by foreign interface.
-# Compile of clkdivider.v was successful.
-# Compile of convert.v was successful.
-# Compile of dither.v was successful.
-# Compile of dither_deadtime_count.v was successful.
-# Compile of encoder.v was successful.
-# Compile of top.v was successful.
-# 6 compiles, 0 failed with no errors. 
 # Running Simulink Cosimulation block.
 # done
 # Simulation halt requested by foreign interface.
@@ -75,46 +123,6 @@ vsimulink work.top
 # Running Simulink Cosimulation block.
 # done
 # Simulation halt requested by foreign interface.
-# Compile of clkdivider.v was successful.
-# Compile of convert.v was successful.
-# Compile of dither.v was successful.
-# Compile of dither_deadtime_count.v was successful.
-# Compile of encoder.v was successful.
-# Compile of top.v was successful.
-# 6 compiles, 0 failed with no errors. 
-# Running Simulink Cosimulation block.
-# done
-# Simulation halt requested by foreign interface.
-# Compile of clkdivider.v was successful.
-# Compile of convert.v was successful.
-# Compile of dither.v was successful.
-# Compile of dither_deadtime_count.v was successful.
-# Compile of encoder.v was successful.
-# Compile of top.v was successful.
-# 6 compiles, 0 failed with no errors. 
-# Running Simulink Cosimulation block.
-# done
-# Simulation halt requested by foreign interface.
-# Running Simulink Cosimulation block.
-# done
-# Simulation halt requested by foreign interface.
-# Compile of clkdivider.v was successful.
-# Compile of convert.v was successful.
-# Compile of dither.v was successful.
-# Compile of dither_deadtime_count.v was successful.
-# Compile of encoder.v was successful.
-# Compile of top.v was successful.
-# 6 compiles, 0 failed with no errors. 
-# Running Simulink Cosimulation block.
-# done
-# Simulation halt requested by foreign interface.
-# Compile of clkdivider.v was successful.
-# Compile of convert.v was successful.
-# Compile of dither.v was successful.
-# Compile of dither_deadtime_count.v was successful.
-# Compile of encoder.v was successful.
-# Compile of top.v was successful.
-# 6 compiles, 0 failed with no errors. 
 # Running Simulink Cosimulation block.
 # done
 # Simulation halt requested by foreign interface.

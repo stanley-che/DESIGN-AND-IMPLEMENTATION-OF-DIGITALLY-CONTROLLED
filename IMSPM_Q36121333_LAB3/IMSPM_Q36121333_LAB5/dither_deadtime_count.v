@@ -1,15 +1,15 @@
 module dither_time(clk,rst,d_n_input,duty_high,duty_low,count);
 	input clk,rst;
-	input [5:0]d_n_input;
+	input [6:0]d_n_input;
 	output reg duty_high,duty_low;
-	output reg[5:0]count;
+	output reg[6:0]count;
 	always@(posedge clk or posedge rst)begin
 		if(rst)begin
 		    	count<=0;
-		end else if(count==6'b111111)begin
+		end else if(count==7'b111111)begin
 			count<=0;
 		end else begin
-			count<=count+6'd1;
+			count<=count+7'd1;
 		end
 	end
 	//comparator high
@@ -35,11 +35,11 @@ module dither_time(clk,rst,d_n_input,duty_high,duty_low,count);
 				duty_low<=0;
 			end
 			
-			if(count>=6'd58)begin
+			if(count>=7'd112)begin
 				duty_low<=0;
 			end
 
-			if(count >=(d_n_input+6'd5))begin
+			if(count >=(d_n_input+7'd10))begin
 				duty_low<=1;
 			end
 		end

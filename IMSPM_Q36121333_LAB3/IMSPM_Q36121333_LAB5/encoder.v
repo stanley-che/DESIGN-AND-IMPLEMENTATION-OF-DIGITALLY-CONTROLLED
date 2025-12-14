@@ -8,14 +8,14 @@ module encoder(clk, rst, datain, en);
             en <= 4'b0000;
         end else begin
             case (1'b1)
-                (datain <= 8'd200): en <= 4'b0100; // +4
-                (datain <= 8'd204): en <= 4'b0011; // +3
-                (datain <= 8'd208): en <= 4'b0010; // +2
-                (datain <= 8'd212): en <= 4'b0001; // +1
-                (datain <= 8'd216): en <= 4'b0000; //  0
-                (datain <= 8'd220): en <= 4'b1111; // -1
-                (datain <= 8'd224): en <= 4'b1110; // -2
-                (datain <= 8'd228): en <= 4'b1101; // -3
+                (datain <= 8'd176): en <= 4'b0100; // +4
+                (datain <= 8'd180): en <= 4'b0011; // +3
+                (datain <= 8'd184): en <= 4'b0010; // +2
+                (datain <= 8'd188): en <= 4'b0001; // +1
+                (datain <= 8'd192): en <= 4'b0000; //  0
+                (datain <= 8'd196): en <= 4'b1111; // -1
+                (datain <= 8'd200): en <= 4'b1110; // -2
+                (datain <= 8'd204): en <= 4'b1101; // -3
                 default           : en <= 4'b1100; // default
             endcase
         end
